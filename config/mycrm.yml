@@ -14,3 +14,8 @@ spring:
       secretkey: DUCPHKEY
   jpa:
     show-sql: true
+  redis:
+    host: localhost
+    port: 6379
+  kafka:
+    bootstrap-servers: localhost:9092
