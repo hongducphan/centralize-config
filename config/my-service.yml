@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: my-service
+
+custom:
+  min: 10
+  max: 400
